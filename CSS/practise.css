@@ -1,0 +1,54 @@
+.wrapper {
+    width: 500px;
+    background-color: #3496D8FF;
+    padding: 10px 50px;
+    margin: 0px auto;
+}
+.nav {
+ margin-bottom: 35px;
+}
+h1 {
+    font-size: 29px;
+    font-weight: bold;
+    text-align: center;
+    color: whitesmoke;
+    font-style: italic;
+}
+
+.content-wrapper {
+    margin: 50px 0px;
+    width: 100%;
+    background-color: white;
+    padding: 35px;
+}
+.nav-link{
+    background-color: #cacacb !important;
+    color: white;
+    margin: 5px;
+    border-radius: unset !important;
+    padding: 8px;
+}
+button.active{
+    background-color: #2096cd !important;
+    color: white !important;
+}
+button:hover {
+    color: white !important;
+}
+.nav-tabs {
+    border: none;
+}
+
+input.form-control, textarea.form-control {
+    border-radius: unset !important;
+}
+
+textarea.form-control {
+    height: 100px;
+}
+
+.submit-btn {
+    background-color: #2096cd;
+    color: white;
+    border-radius: unset !important;
+}
